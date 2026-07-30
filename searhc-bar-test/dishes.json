@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "restaurant": "SEARHC_BAR_TEST",
+  "branch": "searhc-bar-test",
+  "brandName": "asdfasdf",
+  "logo": null,
+  "theme": "dark-elegant",
+  "socials": {},
+  "reviewUrl": "",
+  "updated": "2026-07-30T16:40:50.035Z",
+  "dishes": [
+    {
+      "slug": "awsdfasdf",
+      "name": "awsdfasdf",
+      "label": "asdfasdfasdfasdf",
+      "order": null
+    }
+  ]
+}
